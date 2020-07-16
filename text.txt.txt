@@ -1,0 +1,1 @@
+resnet50_coco_best_v2.0.1.h5 download this file and put it there and u should run the img_to_voice and it will run..
